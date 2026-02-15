@@ -1,4 +1,4 @@
-## Hi there I am Subham Das 
+## Hi there I am Subham 
 - currently working on -> chess Game,NetworkSniffer ....
 - I’m currently learning ml, maths and trying to make some good stuff using c/c++ 
 - I’m looking to collaborate on any tech and discussions.
