@@ -1,6 +1,6 @@
 ## Hi there I am Subham Das 
 - currently working on -> chess Game,NetworkSniffer ....
-- I’m currently learning Blockchain and trying new Stuff
+- I’m currently learning ml, maths and trying to make some good stuff using c/c++ 
 - I’m looking to collaborate on any tech and discussions.
 - Ask me about Life, Tech and people.
 - How to reach me: Email: subhamd.dev@gmail.com
