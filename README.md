@@ -1,5 +1,5 @@
 ## Hi there I am Subham 
-- currently working on ->trendly,chess Game,NetworkSniffer ....
+- currently working on ->tetris,NetworkSniffer ....
 - I’m currently learning ml, maths and trying to make some good stuff using c/c++ 
 - I’m looking to collaborate on any tech and discussions.
 - Ask me about Life, Tech and people.
